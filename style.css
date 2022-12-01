@@ -1,3 +1,20 @@
 body {
     background-color: #ededed;
+    max-height: 100vh;
+}
+
+.center {
+    background-color: #222256;
+    width: 30%;
+    padding: 3rem;
+    border-radius: 1rem;
+}
+
+.tasks {
+    height: 400px;
+    overflow-y: auto;
+}
+
+li:hover {
+    cursor: pointer;
 }

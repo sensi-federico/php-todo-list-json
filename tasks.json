@@ -1,5 +1,1 @@
-[
-    "Learn PHP",
-    "Learn Vue",
-    "Read a book"
-]
+[{"title":"Push this!","done":false},{"title":"Do db-exercise","done":false},{"title":"Learn PHP","done":false}]
